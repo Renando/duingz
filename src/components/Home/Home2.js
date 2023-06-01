@@ -19,12 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              Halo! Perkenalkan, saya Renando. Saya adalah seorang editor foto dan video yang siap membantu Anda menghasilkan karya yang luar biasa.
               <br />
-              <br />I am fluent in classics like
+              <br />Dengan pengalaman dan keahlian saya dalam editing, saya mampu mengubah foto dan video biasa menjadi karya yang
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> menakjubkan dan memikat. </b>
               </i>
               <br />
               <br />
