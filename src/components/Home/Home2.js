@@ -31,7 +31,7 @@ function Home2() {
               <br />
               <br />
               Tidak usah khawatir dengan harga karna kami membuka jasa edit dengan fee
-              with <b className="purple"> SEIKHLASNYA</b>
+              <b className="purple"> SEIKHLASNYA</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
