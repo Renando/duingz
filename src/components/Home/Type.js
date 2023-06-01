@@ -7,7 +7,7 @@ function Type() {
       options={{
         strings: [
           "BISMILLAH",
-          "OPEN JASAr",
+          "OPEN JASA",
           "PAID EDIT FOTO",
           "PAID EDIT VIDEO",
         ],
