@@ -34,6 +34,9 @@ function Toolstack() {
 <Col xs={4} md={2} className="tech-icons">
         <SiAdobepremierepro />
       </Col>
+<Col xs={4} md={2} className="tech-icons">
+        <SiAdobeacrobatreader />
+      </Col>
     </Row>
   );
 }
