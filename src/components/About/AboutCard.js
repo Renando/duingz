@@ -35,7 +35,7 @@ function AboutCard() {
             </li>
 <li className="about-activity">
               <ImPointRight /> Logo desainer
-            </li> Brosur
+            </li>
 <li className="about-activity">
               <ImPointRight /> Edit Foto & video
             </li>
