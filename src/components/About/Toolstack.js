@@ -1,11 +1,15 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
+     SiAdobes,
+     SiAdobeaftereffects,
+     SiAdobeillustrator,
+     SiAdobelightroom,
+     SiAdobelightroomclassic,
+     SiAdobelightroom,
+     SiAdobelightroom,
+     SiAdobephotoshop,
+     SiAdobepremierepro,
 } from "react-icons/si";
 
 function Toolstack() {
