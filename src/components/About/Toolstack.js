@@ -6,8 +6,6 @@ import {
      SiAdobeillustrator,
      SiAdobelightroom,
      SiAdobelightroomclassic,
-     SiAdobelightroom,
-     SiAdobelightroom,
      SiAdobephotoshop,
      SiAdobepremierepro,
 } from "react-icons/si";
@@ -29,12 +27,6 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAdobelightroomclassic />
-      </Col>
-<Col xs={4} md={2} className="tech-icons">
-        <SiAdobelightroom />
-      </Col>
-<Col xs={4} md={2} className="tech-icons">
-        <SiAdobelightroom />
       </Col>
 <Col xs={4} md={2} className="tech-icons">
         <SiAdobephotoshop />
