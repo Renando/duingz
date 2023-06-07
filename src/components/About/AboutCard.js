@@ -7,34 +7,62 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+          <p style={{ textAlign: "justify" }}> 
+            Halo semuanya!, Perkenalkan nama saya <span className="purple">Renando </span>
+            Dari <span className="purple"> Indaramayu, Jawa Barat.</span>
+            <br /> dan saya adalah seorang editor
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
+            Saya memiliki keahlian dalam mengedit berbagai jenis konten seperti tulisan, video, dan gambar.  Saya sangat antusias dalam membantu Anda mencapai hasil terbaik untuk proyek Anda.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Open Jasa :
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Intro & outro Youtube
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> 2D & 3D Intro 
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Logo desainer
+            </li>
+<li className="about-activity">
+              <ImPointRight /> Poster
+            </li>
+<li className="about-activity">
+              <ImPointRight /> Brosur
+            </li>
+<li className="about-activity">
+              <ImPointRight /> Logo desainer
+            </li> Brosur
+<li className="about-activity">
+              <ImPointRight /> Edit Foto & video
+            </li>
+<li className="about-activity">
+              <ImPointRight /> Grading foto & Video
+            </li>
+<li className="about-activity">
+              <ImPointRight /> Preset Lightroom buatan saya
+            </li>
+<li className="about-activity">
+              <ImPointRight /> Restorasi Foto
+            </li>
+<li className="about-activity">
+              <ImPointRight /> Logo desainer
+            </li>
+<li className="about-activity">
+              <ImPointRight /> All Desain foto/video
+            </li>
+<li className="about-activity">
+              <ImPointRight /> Buat website
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Kreativitas tanpa batas, Harga seikhlas hatimu"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Renando</footer>
         </blockquote>
       </Card.Body>
     </Card>
