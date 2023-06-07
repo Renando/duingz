@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}> 
             Halo semuanya!, Perkenalkan nama saya <span className="purple">Renando </span>
-            Dari <span className="purple"> Indaramayu, Jawa Barat.</span>
+            Dari <span className="purple"> Indramayu, Jawa Barat.</span>
             <br /> dan saya adalah seorang editor
             <br />
             Saya memiliki keahlian dalam mengedit berbagai jenis konten seperti tulisan, video, dan gambar.  Saya sangat antusias dalam membantu Anda mencapai hasil terbaik untuk proyek Anda.
